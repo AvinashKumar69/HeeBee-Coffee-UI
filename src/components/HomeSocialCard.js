@@ -7,8 +7,8 @@ const HomeSocialCard = () => {
         <section className="text-gray-600 body-font h-50 bg-cover"
             style={{ backgroundImage: `url(${instaHomeBG})` }}
         >
-            <div className="lg:flex-grow items-center md:w-full lg:pr-24 md:pr-16 flex flex-col md:items-center md:text-left mb-16 ml-20 mt-20 md:mb-0 items-center text-center">
-                <img src={instaPic} />
+            <div className="w-full h-full overflow-hidden">
+                <img className='mx-auto' src={instaPic} />
             </div>
 
         </section>
