@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/HeeBee-Coffee-UI/static/css/main.43203dc1.css",
+    "main.js": "/HeeBee-Coffee-UI/static/js/main.95b31395.js",
+    "static/media/coffeeBGimage.jpg": "/HeeBee-Coffee-UI/static/media/coffeeBGimage.c65b12dcc953ca703c95.jpg",
+    "static/media/mapBG.jpg": "/HeeBee-Coffee-UI/static/media/mapBG.2498449fc56f8b863524.jpg",
+    "static/media/homeImage1.jpg": "/HeeBee-Coffee-UI/static/media/homeImage1.6ae39f139dac8be7679f.jpg",
+    "static/media/instaBG.jpg": "/HeeBee-Coffee-UI/static/media/instaBG.44d6eb4f1c825e042be9.jpg",
+    "static/media/alternateFRONTpic1.jpg": "/HeeBee-Coffee-UI/static/media/alternateFRONTpic1.d3497e60481186355c8d.jpg",
+    "static/media/LogoHeeBee1.png": "/HeeBee-Coffee-UI/static/media/LogoHeeBee1.f365a432b95f0d8b0f05.png",
+    "index.html": "/HeeBee-Coffee-UI/index.html",
+    "main.43203dc1.css.map": "/HeeBee-Coffee-UI/static/css/main.43203dc1.css.map",
+    "main.95b31395.js.map": "/HeeBee-Coffee-UI/static/js/main.95b31395.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43203dc1.css",
+    "static/js/main.95b31395.js"
+  ]
+}
