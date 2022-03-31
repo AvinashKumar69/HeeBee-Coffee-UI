@@ -9,7 +9,8 @@ import Header from './components/Header';
 function App() {
   return (
     <>
-      <Header />
+      <NavBar />
+      {/* <Header /> */}
       <Routes>
         <Route exact path='/' element={<Home />} />
         <Route exact path='/ordermenu' element={<OrderMenu />} />
