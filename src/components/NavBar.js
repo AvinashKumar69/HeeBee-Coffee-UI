@@ -20,7 +20,7 @@ const NavBar = () => {
                 <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
                     <NavLink to='/' className="mr-5 text-white font-bold hover:text-yellow-600">HOME</NavLink>
                     <NavLink to='/ordermenu' className="mr-5 text-white font-bold hover:text-yellow-600">ORDER/MENU</NavLink>
-                    <NavLink to='/about' className="mr-5 text-white font-bold hover:text-yellow-600">ABOUT US</NavLink>
+                    <NavLink to='/aboutus' className="mr-5 text-white font-bold hover:text-yellow-600">ABOUT US</NavLink>
                     <NavLink to='/location' className="mr-5 text-white font-bold hover:text-yellow-600">LOCATION</NavLink>
                 </nav>
                 <button className="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">Login

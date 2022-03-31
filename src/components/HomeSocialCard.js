@@ -7,7 +7,7 @@ const HomeSocialCard = () => {
         <section className="text-gray-600 body-font h-50 bg-cover"
             style={{ backgroundImage: `url(${instaHomeBG})` }}
         >
-            <div className="w-full h-full overflow-hidden">
+            <div className="mx-auto my-auto overflow-hidden">
                 <img className='mx-auto' src={instaPic} />
             </div>
 
