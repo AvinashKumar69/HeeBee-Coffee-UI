@@ -2,7 +2,7 @@ import React from 'react';
 
 const AboutUs = () => {
     return (
-        <section className="text-gray-600 body-font">
+        <section className="text-gray-600 body-font bg-gray-300">
             <div className="container mx-auto flex-col px-5 py-4 md:flex-col items-center">
                 <div className='mx-20 my-5'>
                     <h4 className="text-black font-bold">WHO ARE WE?</h4>
