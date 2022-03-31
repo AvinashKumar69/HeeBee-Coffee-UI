@@ -1,7 +1,7 @@
 import React from "react";
 import HeroSection from "../components/HeroSection";
-import HomeSocialCard from "../components/HomeSocialCard";
 import HomeProductGallery from "../components/HomeProductGallery";
+import HomeSocialCard from "../components/HomeSocialCard";
 import MapLocation from "../components/MapLocation";
 
 

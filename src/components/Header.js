@@ -1,8 +1,8 @@
 import MenuOutlinedIcon from '@mui/icons-material/MenuOutlined';
 import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import MenuItems from '../components/Dropdown';
 import Logo from '../assets/LogoHeeBee1.png';
+import MenuItems from '../components/Dropdown';
 
 const Header = () => {
 
