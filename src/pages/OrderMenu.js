@@ -1,8 +1,13 @@
 import React from 'react';
+import { motion } from "framer-motion";
 
 const OrderMenu = () => {
     return (
-        <section class="text-gray-600 body-font">
+        <motion.section class="text-gray-600 body-font"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+        >
             <div class="container px-5 py-24 mx-auto">
                 <div class="flex flex-wrap -m-4">
                     <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -87,7 +92,7 @@ const OrderMenu = () => {
                     </div>
                 </div>
             </div>
-        </section>
+        </motion.section>
     )
 }
 

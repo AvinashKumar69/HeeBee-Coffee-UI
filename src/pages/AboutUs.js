@@ -1,8 +1,14 @@
 import React from 'react';
+import { motion } from "framer-motion";
+
 
 const AboutUs = () => {
     return (
-        <section className="text-gray-600 body-font bg-gray-250">
+        <motion.section className="text-gray-600 body-font bg-gray-250"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+        >
             <div className="container mx-auto flex-col px-5 py-4 md:flex-col items-center">
                 <div className='mx-20 my-5'>
                     <h4 className="text-black font-bold">WHO ARE WE?</h4>
@@ -21,7 +27,7 @@ const AboutUs = () => {
                     <p className="text-black font-serif mt-2 text-sm italic font-light">HeeBee is a result of the past two years of research, experimenting, and tasting. The owners admit that coming up with a name was a difficult and easy process at the same time. They had been thinking of a name that is striking and matched their moto of café. One day after pondering over a name for a month, they were sitting in a park, when they observed a beehive. They both started discussing over how bees were solely dedicated to one thing all their life- producing honey and how the cells of a beehive were all intact and connected without a single space in between them. It was then it struck both of them to include bee in their name as it would go with the moto of consistency, quality, and loyalty. So Bee was included and Hee just tagged along.<br /><br />In owners' words 'We are loyal like a bee but towards coffee. We are intact as a beehive because we take our customers, employees, and everyone connected to us along because we are who we are only because of them.</p>
                 </div>
             </div>
-        </section>
+        </motion.section>
     )
 }
 
