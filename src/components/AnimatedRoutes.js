@@ -1,9 +1,9 @@
+import { AnimatePresence } from "framer-motion";
 import React from 'react';
 import { Route, Routes, useLocation } from 'react-router-dom';
 import AboutUs from '../pages/AboutUs';
 import Home from '../pages/Home';
 import OrderMenu from '../pages/OrderMenu';
-import { AnimatePresence } from "framer-motion";
 // import { AnimatePresence } from "framer-motion/dist/framer-motion";
 
 const AnimatedRoutes = () => {

@@ -6,7 +6,7 @@ const MapLocation = () => {
         <section className="text-gray-600 body-font">
             <div className="container mx-auto flex flex-wrap">
                 <a className="flex w-full h-full flex-wrap"
-                    href='https://goo.gl/maps/59QdT4RQAMU2'>
+                    href='https://goo.gl/maps/59QdT4RQAMU2' target="_blank">
                     <img src={mapBG} width="100%" height="100%" />
                 </a>
             </div>
