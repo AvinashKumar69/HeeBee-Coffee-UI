@@ -1,6 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import Logo from '../assets/LogoHeeBee1.png';
+import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 
 const NavBar = () => {
     return (
@@ -22,6 +23,7 @@ const NavBar = () => {
                     <NavLink to='/ordermenu' className="mr-5 text-white font-bold hover:text-yellow-600">ORDER/MENU</NavLink>
                     <NavLink to='/aboutus' className="mr-5 text-white font-bold hover:text-yellow-600">ABOUT US</NavLink>
                     <NavLink to='/location' className="mr-5 text-white font-bold hover:text-yellow-600">LOCATION</NavLink>
+                    <NavLink to='/' className="mr-5 text-white font-bold hover:text-yellow-600"><ShoppingCartIcon /></NavLink>
                 </nav>
                 <button className="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">Login
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
