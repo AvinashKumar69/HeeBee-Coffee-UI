@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HeeBee-Coffee-UI/static/css/main.cac9a58e.css",
-    "main.js": "/HeeBee-Coffee-UI/static/js/main.76adaede.js",
+    "main.js": "/HeeBee-Coffee-UI/static/js/main.dfe0601f.js",
     "static/media/coffeeBGimage.jpg": "/HeeBee-Coffee-UI/static/media/coffeeBGimage.c65b12dcc953ca703c95.jpg",
     "static/media/mapBG.jpg": "/HeeBee-Coffee-UI/static/media/mapBG.2498449fc56f8b863524.jpg",
     "static/media/homeImage1.jpg": "/HeeBee-Coffee-UI/static/media/homeImage1.6ae39f139dac8be7679f.jpg",
@@ -10,10 +10,10 @@
     "static/media/LogoHeeBee1.png": "/HeeBee-Coffee-UI/static/media/LogoHeeBee1.f365a432b95f0d8b0f05.png",
     "index.html": "/HeeBee-Coffee-UI/index.html",
     "main.cac9a58e.css.map": "/HeeBee-Coffee-UI/static/css/main.cac9a58e.css.map",
-    "main.76adaede.js.map": "/HeeBee-Coffee-UI/static/js/main.76adaede.js.map"
+    "main.dfe0601f.js.map": "/HeeBee-Coffee-UI/static/js/main.dfe0601f.js.map"
   },
   "entrypoints": [
     "static/css/main.cac9a58e.css",
-    "static/js/main.76adaede.js"
+    "static/js/main.dfe0601f.js"
   ]
 }
