@@ -5,6 +5,7 @@ import HomeProductGallery from "../components/HomeProductGallery";
 import HomeSocialCard from "../components/HomeSocialCard";
 import MapLocation from "../components/MapLocation";
 
+
 const Home = () => {
 
     return (
